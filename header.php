@@ -1,3 +1,3 @@
 <?php
-echo "<img src='meatschool.jpeg'>" ;
+echo "<img src='meatschool.jpeg' alt='lulnoimage'>" ;
 ?>
